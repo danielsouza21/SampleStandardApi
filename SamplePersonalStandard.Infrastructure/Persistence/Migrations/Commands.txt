@@ -1,0 +1,2 @@
+﻿Add-Migration InitialCreate -Project SamplePersonalStandard.Infrastructure -StartupProject SamplePersonalStandard.Api -OutputDir Persistence\Migrations
+Update-Database

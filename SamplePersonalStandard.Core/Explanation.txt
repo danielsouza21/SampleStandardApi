@@ -1,0 +1,15 @@
+﻿Value Objects:
+Value objects represent concepts that are defined by their attributes rather than an identity.
+They are immutable and should be treated as such. Once created, their state cannot be changed. They dont have Id.
+Examples include dates, money, addresses, and any other objects whose equality is based on their property values.
+
+Entities:
+Entities are objects that have a distinct identity that runs through time and different states.
+Unlike value objects, entities are mutable. Their identity remains the same even if their attributes change.
+Examples of entities include users, orders, or any object whose lifecycle is important and needs to be tracked.
+
+Aggregates:
+Aggregates are clusters of domain objects that are treated as a single unit. They ensure consistency and transactional integrity.
+An aggregate typically contains one or more entities and value objects. It has a root entity, known as the aggregate root, through which all access and manipulation of the aggregate occur.
+Aggregates encapsulate business rules and invariants, ensuring that the objects within the aggregate remain in a consistent state.
+Examples of aggregates include order and its line items, or a blog post with its comments.

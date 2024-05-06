@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandardApi\\SamplePersonalStandard.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Application\\SamplePersonalStandard.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Application\\SamplePersonalStandard.Application.csproj",
+        "projectName": "SamplePersonalStandard.Application",
+        "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Application\\SamplePersonalStandard.Application.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Core\\SamplePersonalStandard.Core.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Core\\SamplePersonalStandard.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Core\\SamplePersonalStandard.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Core\\SamplePersonalStandard.Core.csproj",
+        "projectName": "SamplePersonalStandard.Core",
+        "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Core\\SamplePersonalStandard.Core.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Infrastructure\\SamplePersonalStandard.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Infrastructure\\SamplePersonalStandard.Infrastructure.csproj",
+        "projectName": "SamplePersonalStandard.Infrastructure",
+        "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Infrastructure\\SamplePersonalStandard.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Application\\SamplePersonalStandard.Application.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Application\\SamplePersonalStandard.Application.csproj"
+              },
+              "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Core\\SamplePersonalStandard.Core.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Core\\SamplePersonalStandard.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandardApi\\SamplePersonalStandard.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandardApi\\SamplePersonalStandard.Api.csproj",
+        "projectName": "SamplePersonalStandard.Api",
+        "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandardApi\\SamplePersonalStandard.Api.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandardApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Application\\SamplePersonalStandard.Application.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Application\\SamplePersonalStandard.Application.csproj"
+              },
+              "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Infrastructure\\SamplePersonalStandard.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\source\\repos\\SamplePersonalStandardApi\\SamplePersonalStandard.Infrastructure\\SamplePersonalStandard.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

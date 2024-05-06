@@ -1,0 +1,17 @@
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\SamplePersonalStandard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\SamplePersonalStandard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\SamplePersonalStandard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\SamplePersonalStandard.Infrastructure.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\SamplePersonalStandard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\bin\Debug\net8.0\SamplePersonalStandard.Infrastructure.deps.json
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\bin\Debug\net8.0\SamplePersonalStandard.Infrastructure.dll
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\bin\Debug\net8.0\SamplePersonalStandard.Infrastructure.pdb
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\bin\Debug\net8.0\SamplePersonalStandard.Application.dll
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\bin\Debug\net8.0\SamplePersonalStandard.Core.dll
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\bin\Debug\net8.0\SamplePersonalStandard.Application.pdb
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\bin\Debug\net8.0\SamplePersonalStandard.Core.pdb
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\SamplePe.93CFB936.Up2Date
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\SamplePersonalStandard.Infrastructure.dll
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\refint\SamplePersonalStandard.Infrastructure.dll
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\SamplePersonalStandard.Infrastructure.pdb
+C:\Users\Daniel\source\repos\SamplePersonalStandardApi\SamplePersonalStandard.Infrastructure\obj\Debug\net8.0\ref\SamplePersonalStandard.Infrastructure.dll
